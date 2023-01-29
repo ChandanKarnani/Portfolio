@@ -35,6 +35,5 @@
             <br><br> Photoshop: <span style="border:5px solid black;">75%</span>"
           </h1>
       </div>
-     
-</body>
+     </body>
 </html>
