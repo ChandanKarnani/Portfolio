@@ -19,7 +19,9 @@
       <div class="about"><section id="about">
         <img src="download.jpeg" alt="" class="aboutimg">
         <h1>Myself Chandan Karnani</h1>
-        <p>Lorem ipsum dolor sit am</p>
+        <p>Hello, everyone! My name is Chandan Karnani and I'm from Khamgaon,Maharashtra. 
+          I'm currently studying B.E. 1 <sub>st</sub>year (EXTC) at SSGMCE college, and I hope to become a succesfull person one day. 
+          I'm really passionate about learning new things, and I'm always looking for new ways to learn and improve my skills.</p>
         <h2>Contact Me</h2>
         <p>Chicago,US<br>
         Phone +00151515<br>
